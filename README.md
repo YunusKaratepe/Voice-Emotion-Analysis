@@ -1,1 +1,1 @@
-deneme
+# Bu Bir Bitirme Projesidir
