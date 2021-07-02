@@ -1,1 +1,3 @@
-# Bu Bir Bitirme Projesidir
+# Yıldız Technical University Final Project
+
+(Will be arranged)
